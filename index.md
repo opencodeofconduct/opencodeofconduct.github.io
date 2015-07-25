@@ -15,7 +15,7 @@ Our open source community strives to:
   * Violent threats or language directed against another person.
   * Discriminatory jokes and language.
   * Posting sexually explicit or violent material.
-  * Posting (or threatening to post) other people's personally identifying information ("doxing").
+  * Posting, threatening to post, or misuse of other people's personally identifying information ("doxing").
   * Personal insults, especially those using racist or sexist terms.
   * Unwelcome sexual attention.
   * Advocating for, or encouraging, any of the above behavior.
