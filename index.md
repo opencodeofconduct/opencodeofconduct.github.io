@@ -47,6 +47,11 @@ We will not act on complaints regarding:
 - Communicating in a ‘tone’ you don’t find congenial
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
+We may sanction a complainant if:
+
+- There is evidence of bad faith on the part of the complainant indicating an intention to mislead.
+- It is made intentionally for the purpose of vexing and annoying or embarrassing a person.
+
 ### Diversity Statement
 
 We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
