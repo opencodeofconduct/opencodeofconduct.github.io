@@ -2,19 +2,19 @@
 
 An easy to reuse open source code of conduct **template** for communities.
 
-Developed by the [@TODOGroup](https://twitter.com/todogroup) to promote code of conducts for open source communities. By participating in this project, you are expected to honor this [code of conduct](http://todogroup.org/opencodeofconduct/#Open+Code+of+Conduct/abuse@todogroup.org).
+Developed by the [@TODOGroup](https://twitter.com/todogroup) to promote code of conducts for communities. By participating in this project, you are expected to honor this [code of conduct](http://todogroup.org/opencodeofconduct/#Open+Code+of+Conduct/abuse@todogroup.org).
 
 ## FAQ
 
 #### Why a code of conduct?
 
-We strongly believe that a code of conduct helps set the ground rules for participation in communities, and more importantly helps to build a culture of respect and improve diversity. According to the latest [FLOSS survey](http://floss2013.libresoft.es/results.en.html), we have lots of work to do in improving diversity across open source communities.
+We all know that a code of conduct helps set the ground rules for participation in communities, and more importantly helps to build a place of respect and improve diversity. According to the latest [FLOSS survey](http://floss2013.libresoft.es/results.en.html), we have lots of work to do in improving diversity across open source communities.
 
-Diversity is the spice of life. Having a diverse contributor community from different backgrounds and organizations will help set your community up for long term success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) shows that diverse communities are more creative, diligent and innovative.
+Diversity is a part of life. Having a diverse contributor community from different backgrounds and organizations will help set your community up for long term success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) shows that diverse communities are more creative, diligent and innovative.
 
 #### How is this code of conduct licensed?
 
-A very liberal [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+The very accommodating license, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 #### What do you mean that the open code of conduct is a template?
 
@@ -31,7 +31,7 @@ It's very hard to develop a one size fits all code of conduct for open source co
 
 #### Can I apply this code of conduct for conferences or events?
 
-It wasn't intended for that purpose. 
+It wasn't intended for that purpose.
 
 However, we highly recommend the following resources on the topic,
 
@@ -50,7 +50,8 @@ Please send us a pull request with your suggestions.
 
 #### Doesn't this impact the right to free speech? Why are you stomping on my rights?
 
-See this XKCD for our feelings on this matter: https://xkcd.com/1357/
+In the many countries that do have the right to free speech, this means (with obvious exeptions) the government cannot arrest you for saying anything.  Many countries contain free speech in their constitution which can only apply to the government for enforcing or creating laws.
+ As many companies and organizations are owned by private individuals, it means they are only restricted by laws that apply to people and their businesses.  The free speech contained in constitutions only apply to the government, restricting the kinds of laws that it can make.  So no, this does not impact your right to free speech.
 
 ## Thanks
 
@@ -61,4 +62,4 @@ We all stand on the shoulders of giants across many open source communities. We'
 * Ubuntu: http://www.ubuntu.com/about/about-ubuntu/conduct
 * Contributor Covenant: http://contributor-covenant.org/
 * Geek Feminism: http://geekfeminism.org/about/code-of-conduct/
-* Citizen Code of Conduct: http://citizencodeofconduct.org/ 
+* Citizen Code of Conduct: http://citizencodeofconduct.org/
