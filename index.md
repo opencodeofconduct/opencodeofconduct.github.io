@@ -14,6 +14,7 @@ Our open source community strives to:
 * **Be careful in the words that we choose**: we are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable.
 * **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 * **Be forgiving**: Sometimes things go badly, when they do, try to resolve them or forgive the offending party. Don't drag it out into a long grudge match, all that accomplishes is souring the atmosphere for everyone.
+* **Be thoughtful**: This Code of Conduct is just a guideline for behaviour. Human interactions are complex and not easily covered by a short text. As such it is more important that the spirit of the Code is honored than the actual letter. Do not try to find loopholes to justify abusive behavior, instead try to think on wether or not you are doing would affect the community negatively - and if it would, don't do it.
 
 ## Definitions
 
