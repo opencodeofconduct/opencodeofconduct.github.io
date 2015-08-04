@@ -51,7 +51,7 @@ Please send us a pull request with your suggestions.
 #### Doesn't this impact the right to free speech? Why are you stomping on my rights?
 
 In the many countries that do have the right to free speech, this means (with obvious exeptions) the government cannot arrest you for saying anything.  Many countries contain free speech in their constitution which can only apply to the government for enforcing or creating laws.
- As many companies and organizations are owned by private individuals, it means they are only restricted by laws that apply to people and their businesses.  The free speech contained in constitutions only apply to the government, restricting the kinds of laws that it can make.  So no, this does not impact your right to free speech.
+As most companies and organizations are owned by private individuals, they are only restricted by laws that apply to people and their businesses.  The free speech sections contained in constitutions only apply to the government, restricting the kinds of laws that it can make.  So no, this does not impact your right to free speech.
 
 ## Thanks
 
