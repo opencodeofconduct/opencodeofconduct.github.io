@@ -50,7 +50,7 @@ Please send us a pull request with your suggestions.
 
 #### Doesn't this impact the right to free speech? Why are you stomping on my rights?
 
-We do respect and support freedom of speech.  Most would agree that we should stop the line somewhere to keep speech and opinions from going too far.  Remember that the Open Code of Conduct is a template for communities to integrate one in their website.  You are free to edit the code of conduct so it can fit into your community better.
+We do respect and support freedom of speech.  Most would agree that we should draw the line somewhere to keep speech and opinions from going too far.  Remember that the Open Code of Conduct is a template for communities to easily integrate one in their website.  You are free to edit the code of conduct so it can fit into your community better.
 
 ## Thanks
 
