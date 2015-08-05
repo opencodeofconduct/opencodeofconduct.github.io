@@ -46,7 +46,7 @@ The [contributor convenant](http://www.ashedryden.com/blog/codes-of-conduct-101-
 
 Contributions are welcome on how to improve this open code of conduct!
 
-Please send us a pull request with your suggestions.
+Please send us a pull request with your suggestions.  If we close them, please don't recreate another pull request or issue.
 
 #### Doesn't this impact the right to free speech? Why are you stomping on my rights?
 
