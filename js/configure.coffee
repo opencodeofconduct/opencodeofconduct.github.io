@@ -55,7 +55,7 @@ class @Configure
     @template.configure(data)
     window.location.hash = @encode(data)
 
-    snippet = @element.querySelector("#markdown-template").innerText.trim()
+    snippet = @element.querySelector("#markdown-template")['textContent' in @element ? 'textContent' : 'innerText'].trim()
     snippet = snippet.replace("[URL]", window.location)
     @snippet.value = snippet
     @snippet.disabled = false
