@@ -33,6 +33,7 @@ Harassment includes, but is not limited to:
 - Continued one-on-one communication after requests to cease
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 - Publication of non-harassing private communication
+- Questioning how genuine a disability/health issue is
 
 Our open source community prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
