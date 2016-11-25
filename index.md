@@ -40,7 +40,7 @@ Our open source community prioritizes marginalized people’s safety over privil
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
 - Refusal to explain or debate social justice concepts
 - Communicating in a ‘tone’ you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+- Criticizing racist, sexist, cissexist, anti-semitic, or otherwise oppressive behavior or assumptions
 
 
 ### Diversity Statement
